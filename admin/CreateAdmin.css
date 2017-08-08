@@ -1,0 +1,51 @@
+body,p{
+	border:0px;
+	margin:0px;
+	padding: 0px;
+	background-color:#e6e6fa;
+	color:#0000cd;
+	}
+fieldset{
+	margin:3% 25% 0% 25%;
+	text-align:center;
+	border:4px solid #0000cd;
+	border-radius: 20px 0px;
+	
+}
+#top{
+	font-family:'Brush Script Std';
+	font-size:30px;
+	border-bottom: 4px solid #800000;
+}
+.txt{
+	background-color: #CEE8F0;
+	border:2px solid #0000cd;
+	border-radius: 10px 0px;
+	height: 30px;
+	width:300px;
+	color:#c71585;
+	font:'Georgia';
+	font-size: 15px;
+}
+.label{
+	font-size:25px;
+	font-family:'Calibri';
+	margin-top:10px;
+}
+#msg{
+	font-size:30px;
+	font-family:;
+	font-family:'Gabriola';
+	color:#ff4500;
+	margin-top:15px;
+}
+form fieldset input[type="submit"]{
+	margin-top:15px;
+	background-color: #0000ff;
+	border-radius: 5px;
+	height: 50px;
+	width:300px;
+	color:white;
+	font:'System';
+	font-size: 25px;
+}

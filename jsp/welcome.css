@@ -1,0 +1,37 @@
+body,p,table,ul{
+	border:0px;
+	margin:0px;
+	padding: 0px;
+	background-color:#C9CFD6;
+}
+table{
+	border:collapse;
+	border:2px solid black;
+}
+table tr th{
+	border-bottom:3px solid #d3d3d3;
+	font-size:30px;
+	text-align:center;
+	font-family:'Orator Std';
+	background-color:#191970;
+	color:#fff;
+}
+a{
+	text-decoration:none;
+}
+a:hover{
+	text-decoration:underline;
+}
+table tr td{
+	font-size:17px;
+	font-family:'MS Sans Serif';
+	background-color:#fdf5e6;
+	color:#000;
+}
+#actbod{
+	padding :0px 0px 0px 230px;
+	margin-top:-149px;
+}
+ul{
+	list-style-type:none;
+}
